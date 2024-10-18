@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
 *
-* Created by: Mr. Coxall  
+* Created by: Peter Zerbinos
 * Created on: Oct 2024 
 * This program finds the distance using a sonar 
 */
